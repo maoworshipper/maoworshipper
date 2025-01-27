@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Mauricio Martinez 👋
 
-Soy un **desarrollador frontend** con más de **14 años de experiencia**, apasionado por crear interfaces de usuario eficientes y atractivas. Mi enfoque principal está en:
+**Desarrollador frontend** con más de **14 años de experiencia**, apasionado por crear interfaces de usuario eficientes y atractivas. Mi enfoque principal está en:
 
 ✅​ **Lenguajes y Tecnologías:** JavaScript, TypeScript, HTML5, CSS3  
 ✅​ **Librerías y Frameworks:** React (16-18), Next.js (12-15, Page Router y App Router) y Astro  
