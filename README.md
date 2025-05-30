@@ -4,12 +4,12 @@
 
 ✅​ **Lenguajes y Tecnologías:** JavaScript, TypeScript, HTML5, CSS3  
 ✅​ **Librerías y Frameworks:** React (16-18), Next.js (12-15, Page Router y App Router) y Astro  
-✅​ **También tengo experiencia en:** Tailwind CSS, SASS, Node.js, PHP, MySQL, Bootstrap, integración API REST, Wordpress, SEO, Auth0, Contentful, Vercel y Turso  
+✅​ **También tengo experiencia en:** Tailwind CSS, SASS, Node.js, PHP, MySQL, Bootstrap, integración API REST, Wordpress, SEO, Auth0, Contentful, Vercel y Turso (SQLite)  
 ✅​ **Metodologías:** SCRUM y Kanban
 
 ### Con React y Next.js he usado
 
-Hooks, Custom hooks, Zustand, Redux Toolkit, React Router 6, TanStack Query (React Query), Reactflow, React Hook Form, Next-Auth, Ant Design, Material UI, Styled components, módulos SASS, Jest y Testing Library
+Hooks, Custom hooks, Zustand, Redux Toolkit, React Router 6, TanStack Query (React Query), Reactflow, React Hook Form, Next-Auth, Ant Design, Material UI, Shadcn/ui, Styled components, módulos SASS, Jest y Testing Library
 
 ### Conectemos
 
